@@ -1,6 +1,6 @@
 name: country_selection
 description: Country selection plugin
-version: 0.0.1
+version: 0.0.2
 homepage:
 publish_to: none
 
@@ -15,7 +15,7 @@ dependencies:
   th_core:
     git:
       url: https://github.com/tuanhwing/th_core.git
-      ref: 0.0.3
+      ref: ^0.0.4
 
 dev_dependencies:
   flutter_test:
