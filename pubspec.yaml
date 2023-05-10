@@ -15,7 +15,7 @@ dependencies:
   th_core:
     git:
       url: https://github.com/tuanhwing/th_core.git
-      ref: ^0.0.4
+      ref: 0.0.4
 
 dev_dependencies:
   flutter_test:
